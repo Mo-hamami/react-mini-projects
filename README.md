@@ -8,6 +8,8 @@ Small React sandbox to practice components, state, and APIs.
 
 ## Scripts
 ```bash
-npm install
-npm run dev
-npm run build
+yarn
+yarn dev
+yarn build
+yarn preview
+
